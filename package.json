@@ -1,0 +1,26 @@
+{
+  "name": "zaher",
+  "displayName": "Zaher",
+  "description": "Zaher Theme: A stunning blend of vibrant colors and sleek design, perfect for enhancing your coding environment. Experience a harmonious interplay of bold reds, refreshing greens, and clean whites that not only elevate your workspace but also promote focus and productivity. Zaher is crafted for developers who value aesthetics and functionality, making coding a visually delightful experience.",
+  "version": "0.0.2",
+  "publisher": "special-one",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zaher",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zaher-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alirezahastam/zaher"
+  }
+}
