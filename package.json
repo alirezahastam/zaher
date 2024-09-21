@@ -3,6 +3,7 @@
   "displayName": "Zaher",
   "description": "Zaher Theme: A stunning blend of vibrant colors and sleek design, perfect for enhancing your coding environment. Experience a harmonious interplay of bold reds, refreshing greens, and clean whites that not only elevate your workspace but also promote focus and productivity. Zaher is crafted for developers who value aesthetics and functionality, making coding a visually delightful experience.",
   "version": "0.0.2",
+  "icon": "logo.png",
   "publisher": "special-one",
   "engines": {
     "vscode": "^1.70.0"
